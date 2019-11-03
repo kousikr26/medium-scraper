@@ -1,0 +1,3 @@
+https://towardsdatascience.com/simpsons-paradox-and-interpreting-data-6a0443516765
+https://towardsdatascience.com/gans-demystified-what-the-hell-do-they-learn-142575c878db
+https://towardsdatascience.com/quick-dive-into-pandas-for-data-science-cc1c1a80d9c4
