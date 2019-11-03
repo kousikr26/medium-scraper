@@ -10,8 +10,10 @@ This program signs in and scrapes out your daily recommendations based on your r
 * ChromeDriver 2.41.578700
 * pdfkit
 ## Usage
-* First change the username and password to match yours in the scrape.py(Currently only google sign in is supported).
+* First change the username and password to match yours in the scrape.py(Only google sign in).
 * Increase the delay time and scroll down when the medium home page opens if you want to load more articles.
 * All the scraped article's links will be stored in articles.txt.
 * To read run read.py(Change the article limit if you want to open more articles at once)
 * All the opened articles will be stored in read.py and not opened again
+* If you want to save the articles as pdf and send via mail run savepdfandsend.py
+* The scraping and sending scripts can be automated to be run daily by using anacron if you are a linux user 
