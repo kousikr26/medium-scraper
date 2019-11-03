@@ -62,4 +62,4 @@ for i in range(len(articles)):
 		
 outfile.close()
 driver.close()
-os.system('python read.py')
+#os.system('python read.py')
